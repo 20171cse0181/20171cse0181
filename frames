@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>HTML frames</title>
+</head>
+
+<frameset rows="10%,80%,10%">
+<frame name="top"src="my_resume"/>
+<frame name="main"src="linda_diaz"/>
+<frame name="bottom"src="/home/6CSE3/Desktop/index.jpeg"/>
+<noframes>
+<body>your body doesnt support frames</body>
+</noframes>
+</frameset>
+</html>
